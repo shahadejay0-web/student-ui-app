@@ -17,7 +17,7 @@ div.ex {
 <body>
 	<h1>CLOUDBLITZ-TEAM</h1> </br>
 	<h2>Welcomes you!!</h2> </br>
-	<h2>Student admission form </h2>
+	<h2>Student admission form for Batch 47 plz fill the form and pay all fees </h2>
 	<div class="ex">
 		<form action="registrationController" method="post">
 			<table style="with: 50%">
@@ -51,4 +51,5 @@ div.ex {
 	</div>
 </body>
 </html>
+
 
