@@ -4,3 +4,4 @@ trigger again
 new trigger allow
 khblhj.
 new trriget added
+ritik added new code
